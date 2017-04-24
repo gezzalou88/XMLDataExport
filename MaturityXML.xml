@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root Maturity_values="Numbers">
+  <policy_number>A100001</policy_number>
+  <maturity_value>£428000</maturity_value>
+  <policy_number>A100002</policy_number>
+  <maturity_value>£505312</maturity_value>
+  <policy_number>A100003</policy_number>
+  <maturity_value>£688485</maturity_value>
+  <policy_number>B100001</policy_number>
+  <maturity_value>£549400</maturity_value>
+  <policy_number>B100002</policy_number>
+  <maturity_value>£864300</maturity_value>
+  <policy_number>B100003</policy_number>
+  <maturity_value>£1035000</maturity_value>
+  <policy_number>C100001</policy_number>
+  <maturity_value>£549780</maturity_value>
+  <policy_number>C100002</policy_number>
+  <maturity_value>£701800</maturity_value>
+  <policy_number>C100003</policy_number>
+  <maturity_value>£865260</maturity_value>
+</Root>

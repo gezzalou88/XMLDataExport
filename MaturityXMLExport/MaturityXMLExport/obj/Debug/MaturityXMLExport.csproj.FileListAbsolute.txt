@@ -1,0 +1,6 @@
+c:\users\gezza\documents\visual studio 2017\Projects\MaturityXMLExport\MaturityXMLExport\bin\Debug\MaturityXMLExport.exe.config
+c:\users\gezza\documents\visual studio 2017\Projects\MaturityXMLExport\MaturityXMLExport\bin\Debug\MaturityXMLExport.exe
+c:\users\gezza\documents\visual studio 2017\Projects\MaturityXMLExport\MaturityXMLExport\bin\Debug\MaturityXMLExport.pdb
+c:\users\gezza\documents\visual studio 2017\Projects\MaturityXMLExport\MaturityXMLExport\obj\Debug\MaturityXMLExport.csprojResolveAssemblyReference.cache
+c:\users\gezza\documents\visual studio 2017\Projects\MaturityXMLExport\MaturityXMLExport\obj\Debug\MaturityXMLExport.exe
+c:\users\gezza\documents\visual studio 2017\Projects\MaturityXMLExport\MaturityXMLExport\obj\Debug\MaturityXMLExport.pdb
